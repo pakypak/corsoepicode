@@ -1,0 +1,15 @@
+html, boby {
+    background-color: #415fe1;
+    color: white;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 200px;
+}
+
+img {
+    height: 250px;
+    width: 300px;
+}
+a:hover {
+    color: black;
+}
